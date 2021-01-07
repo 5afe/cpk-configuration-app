@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.615d7b21.chunk.css",
-    "main.js": "/static/js/main.5203854d.chunk.js",
-    "main.js.map": "/static/js/main.5203854d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e19a91e8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e19a91e8.js.map",
-    "static/js/2.c20cadba.chunk.js": "/static/js/2.c20cadba.chunk.js",
-    "static/js/2.c20cadba.chunk.js.map": "/static/js/2.c20cadba.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.407b980106f81a72f49cea88ce9b3202.js": "/precache-manifest.407b980106f81a72f49cea88ce9b3202.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.615d7b21.chunk.css.map": "/static/css/main.615d7b21.chunk.css.map",
-    "static/js/2.c20cadba.chunk.js.LICENSE.txt": "/static/js/2.c20cadba.chunk.js.LICENSE.txt",
-    "static/media/averta-bold.woff2": "/static/media/averta-bold.47c7a29f.woff2",
-    "static/media/averta-normal.woff2": "/static/media/averta-normal.30559e37.woff2"
+    "main.css": "/cpk-configuration-app/static/css/main.615d7b21.chunk.css",
+    "main.js": "/cpk-configuration-app/static/js/main.58d9146a.chunk.js",
+    "main.js.map": "/cpk-configuration-app/static/js/main.58d9146a.chunk.js.map",
+    "runtime-main.js": "/cpk-configuration-app/static/js/runtime-main.09b4a1b8.js",
+    "runtime-main.js.map": "/cpk-configuration-app/static/js/runtime-main.09b4a1b8.js.map",
+    "static/js/2.d288294c.chunk.js": "/cpk-configuration-app/static/js/2.d288294c.chunk.js",
+    "static/js/2.d288294c.chunk.js.map": "/cpk-configuration-app/static/js/2.d288294c.chunk.js.map",
+    "index.html": "/cpk-configuration-app/index.html",
+    "precache-manifest.99005286ddb1f13690e4d06ce492c329.js": "/cpk-configuration-app/precache-manifest.99005286ddb1f13690e4d06ce492c329.js",
+    "service-worker.js": "/cpk-configuration-app/service-worker.js",
+    "static/css/main.615d7b21.chunk.css.map": "/cpk-configuration-app/static/css/main.615d7b21.chunk.css.map",
+    "static/js/2.d288294c.chunk.js.LICENSE.txt": "/cpk-configuration-app/static/js/2.d288294c.chunk.js.LICENSE.txt",
+    "static/media/averta-bold.woff2": "/cpk-configuration-app/static/media/averta-bold.47c7a29f.woff2",
+    "static/media/averta-normal.woff2": "/cpk-configuration-app/static/media/averta-normal.30559e37.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.e19a91e8.js",
-    "static/js/2.c20cadba.chunk.js",
+    "static/js/runtime-main.09b4a1b8.js",
+    "static/js/2.d288294c.chunk.js",
     "static/css/main.615d7b21.chunk.css",
-    "static/js/main.5203854d.chunk.js"
+    "static/js/main.58d9146a.chunk.js"
   ]
 }
