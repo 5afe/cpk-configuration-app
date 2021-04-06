@@ -21,6 +21,6 @@ jobs:
           path-to-signatures: 'signatures/version1/cla.json'
           path-to-cla-document: 'https://github.com/gnosis/contract-proxy-kit/blob/master/GNOSISCLA.md'
           branch: 'cla-signatures'
-          allowlist: germartinez,mikheevm,rmeissner,Uxio0,dasanra,davidalbela,luarx,giacomolicari,lukasschor,tschubotz,gnosis-info,bot*
+          allowlist: germartinez,mikheevm,rmeissner,Uxio0,dasanra,davidalbela,luarx,giacomolicari,lukasschor,tschubotz,fmrsabino,gnosis-info,bot*
           empty-commit-flag: false
           blockchain-storage-flag: false
